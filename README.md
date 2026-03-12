@@ -24,7 +24,7 @@ Propulsé par l'IA Groq (gratuit) — fonctionne en local sur Windows et macOS.
 ## Installation
 
 ```bash
-git clone https://github.com/ton-user/learnfast.git
+git clone https://github.com/Manoleau/learnfast.git
 cd learnfast
 npm install
 ```
